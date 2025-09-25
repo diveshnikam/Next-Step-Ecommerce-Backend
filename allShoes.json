@@ -1,0 +1,2595 @@
+[
+  {
+  "name": "Terra Manta",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 7495,
+  "mrp": 10710,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758010424/thumnail_nike_men_1.png_njywy9.avif",
+
+  "colors": {
+    "Brown": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758010424/details.nike_men_1.png_ifgzqk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758029482/image_1_details_ryi0wu.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758051456/terra_white_one_zkotsz.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758051456/terra_white_2_scixxb.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11],
+  "rating": 4.6,
+  "ratingCount": 312,
+
+  "description": "Clean, versatile lifestyle sneaker designed for everyday wear. A cushioned midsole keeps steps soft while the durable upper and rubber cupsole deliver long-lasting comfort and traction. Easy to style with jeans or joggers for a polished casual look.",
+  "features": [
+    "Soft foam cushioning for all-day comfort",
+    "Durable upper with supportive overlays",
+    "Rubber outsole for reliable traction",
+    "Padded collar and tongue for a secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Court Vision Low Next Nature",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 4995,
+  "mrp": 4995,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758026197/lifestyle_2_thumbnail_vjkwfl.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758026197/lifestyle_2_details_uihm8v.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758029482/image_2__court_iwsupq.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758051952/court_black_1_kqgmhk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758051952/court_black_2_pw3l36.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 3.5,
+  "ratingCount": 210,
+
+  "description": "A remix of classic 80s basketball style made with at least 20% recycled materials by weight. The crisp synthetic upper with stitched overlays keeps the heritage look, while the plush low-cut collar feels sleek and comfortable for everyday wear.",
+  "features": [
+    "At least 20% recycled materials by weight",
+    "Crisp synthetic upper with stitched overlays",
+    "Perforations on toe and sides for breathability",
+    "Low-cut padded collar for comfort",
+    "Rubber outsole for traction and durability"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "SB Force 58",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 6495,
+  "mrp": 12990,
+  "discountPercent": 50,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758088336/force_thumnail_vf4k7b.avif",
+
+  "colors": {
+    "Brown": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758088336/force_brown_2_gcdll7.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758088336/force_brown_1_xgas5i.avif"
+    ],
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758088336/green_force_1_osskxz.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758088337/green_force_2_bc6rzk.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 4.7,
+  "ratingCount": 150,
+
+  "description": "The Nike SB Force 58 gives you the durability of a cupsole with the flexibility of a vulcanised shoe. Made from canvas and suede, it delivers skate-ready performance with a heritage basketball style.",
+  "features": [
+    "Canvas and suede upper for durability",
+    "Cupsole design for boardfeel and comfort",
+    "Perforations and embroidered Swoosh nod to heritage basketball style",
+    "Stretchy inner gusset hugs your foot to help keep your shoe on even when laces blow out"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Uplift AC",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 2495,
+  "mrp": 2495,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089338/uplift_thumbnail_lqlpgz.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089338/uplift_blue_1_smkzud.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089338/uplift_blue_2_oytiys.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 3.4,
+  "ratingCount": 19,
+
+  "description": "Simplicity meets utility in the Uplift SC. It pairs breathable textiles with a soft foam midsole for day-long comfort, plus a sleek design and easy-to-style colourway you’ll reach for again and again.",
+  "features": [
+    "Lightweight, breathable textile upper",
+    "Soft foam midsole for comfort",
+    "Rubber outsole with forefoot grooves for flexible traction",
+    "Style: IB2765-401; Colour shown: Midnight Navy/Black/White"
+  ],
+
+  "codAvailable": true
+},
+{
+  "name": "Cortez Leather",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 4497,
+  "mrp": 7495,
+  "discountPercent": 40,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089796/cortez_thumnail_pjaqqq.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089796/cortez_white_1_clynyw.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089797/cortez_white_2_jm1sqo.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089796/cortez_black_2_tl5uup.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758089795/cortez_balck_1_e9nzjq.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 2.6,
+  "ratingCount": 85,
+
+  "description": "One of Nike’s most iconic running shoes, the Cortez returns in a premium leather version. With its classic low-cut silhouette, foam midsole cushioning, and herringbone-pattern outsole, it delivers timeless comfort and heritage style.",
+  "features": [
+    "Premium leather upper for durability and classic style",
+    "Full-length foam midsole for lightweight cushioning",
+    "Rubber outsole with herringbone pattern for traction",
+    "Low-cut collar for a clean, streamlined look"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Pacific",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 3995,
+  "mrp": 3995,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758109859/pacific_thumnail_m1onyz.avif",
+
+  "colors": {
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758109858/orange_2_jgmthw.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758109858/orange_1_lyv14h.avif"
+    ],
+    "Grey": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758109857/grey_1_nhz2jj.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758109857/grey_2_qfowjg.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 1.5,
+  "ratingCount": 45,
+
+  "description": "The Nike Pacific brings retro-inspired lifestyle design with modern cushioning for everyday comfort. Featuring premium materials, layered detailing, and a sleek low-cut look, it’s built for versatile styling and lasting wear.",
+  "features": [
+    "Premium leather and textile upper for durability",
+    "Foam midsole provides lightweight cushioning",
+    "Rubber outsole for traction and grip",
+    "Retro-inspired design with modern updates"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Max Muse",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 7996,
+  "mrp": 9995,
+  "discountPercent": 20,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110305/max_thumnail_hn8nj2.avif",
+
+  "colors": {
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110305/max_green_2_daptoz.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110304/max_green_1_qeonmi.avif"
+    ],
+    "Golden": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110304/max_golden_2_sksumt.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110304/max_golden_1_havsib.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+  "rating": 4.5,
+  "ratingCount": 62,
+
+  "description": "The Nike Air Max Muse updates the iconic Air Max DNA with a sculpted midsole, visible Air cushioning, and layered overlays for a modern lifestyle look. Lightweight foam and breathable materials deliver all-day comfort.",
+  "features": [
+    "Visible Max Air unit in the heel for responsive cushioning",
+    "Layered synthetic and textile upper for durability",
+    "Lightweight foam midsole for comfort",
+    "Rubber outsole with flex grooves for traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan 1 Brooklyn Low",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 13295,
+  "mrp": 13295,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110848/jordan_thumbnail_plpe3a.avif",
+
+  "colors": {
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110848/jordna_black_1_ck4uzh.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758110849/jordna_black_2_prcxdl.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+  "rating": 4.3,
+  "ratingCount": 40,
+
+  "description": "Bringing hoops heritage to the streets, the Air Jordan 1 Brooklyn Low mixes premium materials, a modern sole unit, and timeless Jordan branding. With cushioned comfort and bold style, it’s built for everyday wear.",
+  "features": [
+    "Premium leather upper with durable overlays",
+    "Lightweight foam midsole with encapsulated Air cushioning",
+    "Rubber outsole with heritage traction pattern",
+    "Iconic Jordan branding details throughout"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Court Vision Next Nature",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 3246,
+  "mrp": 4995,
+  "discountPercent": 35,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758111945/vision_thumbnail_naozbc.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758111946/vision_white_2_fbv9gu.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758111945/vision_white_1_ymg8cp.avif"
+    ],
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758111944/vision_pink_1_bembpl.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758111945/vision_pink_2_dc1fys.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 3.5,
+  "ratingCount": 210,
+
+  "description": "In love with the classic look of '80s basketball but have a thing for the fast-paced culture of today's game? Meet the Nike Court Vision Low Next Nature. Made from at least 20% recycled materials by weight, its crisp upper and stitched overlays are inspired by the days of hook-shots and tube socks. The padded collar and rubber outsole bring comfort and traction for your world.",
+  "features": [
+    "Made from at least 20% recycled material by weight.",
+    "Synthetic upper with stitched overlays.",
+    "Perforations on toe and sides for breathability.",
+    "Rubber outsole for traction.",
+    "Low-cut padded collar for comfort."
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Uplift SC DC",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 5495,
+  "mrp": 5495,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758132790/uplift_thumnail_jmuvy9.avif",
+
+  "colors": {
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758132788/uplift_red_1_o6tkig.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758132790/uplift_red_2_er3wda.avif"
+    ],
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758113058/uplift_orange_1_aucbie.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758113059/uplift_orange_2_nfhidk.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+  "rating": 3.8,
+  "ratingCount": 50,
+
+  "description": "Simplicity meets utility in the Uplift SC. It pairs breathable textiles with a foam midsole to help keep you comfortable no matter how long you're on your feet. The sleek design and easy-to-style colourways will have you reaching for it again and again.",
+  "features": [
+    "Lightweight textile upper",
+    "Foam midsole for comfort",
+    "Rubber outsole with forefoot grooves for traction",
+    "Versatile low-cut look"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "ReactX Rejuven8",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 4474,
+  "mrp": 5965,
+  "discountPercent": 25,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133137/react_thumnail_crrazc.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133139/reqact_pink_2_ksi3os.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133136/react_pink_1_kdjx2v.avif"
+    ],
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133135/react_green_1_z8zimh.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133136/react_green_2_sbtfv4.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+
+  "rating": 2.5,
+  "ratingCount": 35,
+
+  "description": "Made with soft and responsive ReactX foam, the Rejuven8 uses some of our best tech to create recovery shoes you’ll look forward to wearing. Slip-on design, ventilation holes, and a roomy forefoot make these ideal for casual comfort and relaxed days.",
+
+  "features": [
+    "ReactX upper and midsole surround your feet in soft, responsive comfort",
+    "Sticky rubber outsole for grip even on slick surfaces",
+    "Extra room at the forefoot to accommodate various foot widths",
+    "Ventilation holes for increased breathability"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Max Muse 'Black and Metallic Silver'",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 5598,
+  "mrp": 13995,
+  "discountPercent": 60,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133809/air_thumbnail_yw0zwy.avif",
+
+  "colors": {
+    "Yellow": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133809/air_yellow_1_lr34kl.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758133810/air_yellow_2_swmgm1.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+
+  "rating": 1.5,
+  "ratingCount": 25,
+
+  "description": "The all-new Air Max Muse is a bold, futuristic addition to the Air Max family. Its exaggerated proportions, sleek finishes and unexpectedly high arch showcase the shoe’s namesake Air technology. This Metallic Silver colorway adds a distinctive touch that dares to be different.",
+
+  "features": [
+    "Synthetic leather and textiles for a durable, layered look.",
+    "Foam midsole for comfort.",
+    "Rubber outsole with traction.",
+    "Metallic silver accents for style."
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Metcon 10",
+  "category": "Training",
+  "gender": "Men",
+  "price": 8397,
+  "mrp": 11995,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178502/mecton_thumnail_ygmujh.avif",
+
+  "colors": {
+    "Grey": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178499/mecton_grey_1_w6occk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178499/mecton_grey_2_o67tzo.avif"
+    ],
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178500/mecton_orange_2_kwzlxu.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178499/mecton_orange_1_bdxrxc.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.4,
+  "ratingCount": 120,
+
+  "description": "Engineered for stability and durability, the Nike Metcon 10 is designed to handle heavy lifts, explosive cardio, and high-intensity training. With a wide flat heel, firm midsole, and grippy outsole, it delivers performance you can rely on in the gym.",
+
+  "features": [
+    "Wide flat heel for maximum stability during heavy lifts",
+    "Firm midsole and cushioned forefoot for versatile training",
+    "Mesh upper with overlays for breathability and durability",
+    "Grippy rubber outsole with traction for sled pushes and rope climbs"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Reax 8 TR",
+  "category": "Training",
+  "gender": "Men",
+  "price": 7495,
+  "mrp": 7495,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178980/tr_thumbnail_cjwlcu.avif",
+
+  "colors": {
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178978/tr_black_1_lzyofq.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758178980/tr_black_2_ry3jfh.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.2,
+  "ratingCount": 201,
+
+  "description": "Engineered for lightweight performance. The Nike Reax 8 TR combines lightweight containment with responsive cushioning for premium performance while training.",
+
+  "features": [
+    "Nike Reax cushioning in the heel for a responsive ride",
+    "Dynamic lacing system for a secure midfoot lockdown",
+    "Flex grooves for natural foot movement",
+    "Solid rubber pods for durable traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Flex Experience Run 12",
+  "category": "Training",
+  "gender": "Men",
+  "price": 4995,
+  "mrp": 4995,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758179684/grey_thumnail_gbfkk9.avif",
+
+  "colors": {
+    "Grey": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758179683/grey_2_sr97wa.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758179682/grey_1_hojcpo.avif"
+    ],
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758179681/blue_1_iaeijg.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758179681/blue_2_gln3wu.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.6,
+  "ratingCount": 52,
+
+  "description": "Minimal design with a plush, super-soft upper and flex grooves in the outsole to help you move freely. The low foam stack keeps things lightweight while providing the support you need for everyday road runs.",
+
+  "features": [
+    "Plush upper hugs the foot for comfort",
+    "Flex grooves in the outsole enable natural movement",
+    "Low foam stack for lightweight stability and support",
+    "Reflective design details"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Free 2025",
+  "category": "Training",
+  "gender": "Men",
+  "price": 4000,
+  "mrp": 8000,
+  "discountPercent": 50,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180385/red_thumnail_fhzrye.avif",
+
+  "colors": {
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180383/red_1_skeq01.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180384/red_2_koe8t3.avif"
+    ],
+    "Sky-Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180386/skyblue_1_sdxt9t.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180387/skyblue_2_skbwez.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.2,
+  "ratingCount": 87,
+
+  "description": "Lightweight and flexible, the Nike Free 2025 offers breathable comfort with a dynamic outsole pattern that adapts to every step—designed for training both in and out of the gym.",
+
+  "features": [
+    "Flyknit/non-woven upper for stretch and breathability",
+    "Flex grooves in sole for natural movement",
+    "Low-profile foam midsole with dual-density cushioning",
+    "Grippy rubber zones at heel and toe"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Reax 8 TR White",
+  "category": "Training",
+  "gender": "Men",
+  "price": 3500,
+  "mrp": 3500,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180699/reax_thumnail_tcc3w6.avif",
+
+  "colors": {
+   
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180701/reax_white_1_ykzxzx.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180702/reax_white_2_noykww.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.6,
+  "ratingCount": 64,
+
+  "description": "Engineered for lightweight performance. The Nike Reax 8 TR combines lightweight containment with responsive cushioning for premium performance while training.",
+
+  "features": [
+    "Nike Reax cushioning in the heel for a responsive ride",
+    "Dynamic lacing system for a secure midfoot lockdown",
+    "Flex grooves for natural foot movement",
+    "Solid rubber pods for durable traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Max Alpha Trainer 6",
+  "category": "Training",
+  "gender": "Men",
+  "price": 2800,
+  "mrp": 2800,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180986/max_thumnail_kowbll.avif",
+
+  "colors": {
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180984/max_ornage_1_disqj2.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180983/max_orange_2_aa6j7g.avif"
+    ],
+    "Brown": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180980/max_brown_1_wdgopz.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758180982/max_brown_2_n9mjrx.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.8,
+  "ratingCount": 38,
+
+  "description": "The Nike Air Max Alpha Trainer 6 is built for stability and support during intense workouts. With a durable upper, wide base, and Max Air cushioning in the heel, it delivers comfort and confidence for heavy training sessions.",
+
+  "features": [
+    "Max Air cushioning in the heel for impact absorption",
+    "Wide, flat base for enhanced stability during lifts",
+    "Durable mesh and synthetic upper for breathability",
+    "Rubber outsole with traction for multi-surface grip"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Metcon 10 Women",
+  "category": "Training",
+  "gender": "Women",
+  "price": 5998,
+  "mrp": 11995,
+  "discountPercent": 50,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196610/metcon_thumnail_gdrxhx.avif",
+
+  "colors": {
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196608/metcon_green_rpl1tw.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196608/metcon_g_ljnbxb.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196610/metcon_white_1_zeqdxm.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196612/metcon_white_2_jayyt7.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 4.7,
+  "ratingCount": 145,
+
+  "description": "Engineered for stability and durability, the Nike Metcon 10 Women is designed to handle heavy lifts, explosive cardio, and high-intensity training. With a wide flat heel, firm midsole, and grippy outsole, it delivers performance you can rely on in the gym.",
+
+  "features": [
+    "Wide flat heel for maximum stability during heavy lifts",
+    "Firm midsole and cushioned forefoot for versatile training",
+    "Mesh upper with overlays for breathability and durability",
+    "Grippy rubber outsole with traction for sled pushes and rope climbs"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Metcon 10 Edge",
+  "category": "Training",
+  "gender": "Women",
+  "price": 7197,
+  "mrp": 11995,
+  "discountPercent": 40,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196995/metcon_pink_thumnail_f72uts.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196994/metcon_pink_2_hhzd9j.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196992/metcon_pink_1_xlhamq.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196990/metcon_b_2_siacbh.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758196990/metcon_b_1_tetbpn.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 4.3,
+  "ratingCount": 132,
+
+  "description": "Built for power and endurance, the Nike Metcon 10 Edge is optimized for heavy lifting, high-intensity training, and versatile gym sessions. Its wide base, firm midsole, and durable construction ensure confidence with every workout.",
+
+  "features": [
+    "Wide, flat heel for a stable lifting foundation",
+    "Dual-density foam midsole for balanced cushioning and support",
+    "Breathable mesh with reinforced overlays for durability",
+    "Grippy rubber outsole with excellent traction for dynamic movements"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "In-Season TR 14",
+  "category": "Training",
+  "gender": "Women",
+  "price": 4700,
+  "mrp": 4700,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197357/seSon_thumnail_aisuyd.avif",
+
+  "colors": {
+    "Gold": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197355/season_rose_gold_2_qw01ff.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197353/season_rose_gold_1_hlfshv.avif"
+    ],
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197351/season_orange_1_ymodmn.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197352/season_orange_2_pyonkv.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 3.7,
+  "ratingCount": 88,
+
+  "description": "The Nike In-Season TR 14 is a lightweight and versatile training shoe designed for gym workouts and cardio sessions. With soft cushioning, a breathable upper, and flexible traction, it keeps you moving comfortably through every rep.",
+
+  "features": [
+    "Foam midsole for lightweight cushioning",
+    "Breathable mesh upper for all-day comfort",
+    "Supportive overlays for stability during multi-directional movement",
+    "Durable rubber outsole with flex grooves for traction and flexibility"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Metcon 6 T",
+  "category": "Training",
+  "gender": "Women",
+  "price": 3300,
+  "mrp": 3300,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197903/metcon_6_t_xcvhmw.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197897/metcon_6_blue_1_qbi4ph.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197898/metcon_6_blue_2_kczkmo.avif"
+    ],
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197899/metcon_6_pink_1_ba36xd.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758197901/metcon_6_pink_2_kbzjvh.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 3.3,
+  "ratingCount": 74,
+
+  "description": "The Nike Metcon 6 T is designed for versatile training, combining stability for weightlifting with breathability and comfort for high-intensity workouts. Durable construction ensures lasting performance in the gym.",
+
+  "features": [
+    "Stable heel and wide base for heavy lifts",
+    "Breathable mesh upper with supportive overlays",
+    "Cushioned midsole for comfort in high-impact moves",
+    "Durable rubber outsole with strong traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Flex Experience Run 12 Breeze",
+  "category": "Training",
+  "gender": "Women",
+  "price": 2700,
+  "mrp": 3857,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758198220/run_thumnail_d0kcmx.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758198221/run_white_1_fziphb.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758198222/run_white_2_z3hqdg.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 2.7,
+  "ratingCount": 59,
+
+  "description": "The Nike Flex Experience Run 12 Breeze delivers lightweight cushioning and natural movement for daily runs. Its minimal design with breathable materials and flex grooves ensures comfort and flexibility mile after mile.",
+
+  "features": [
+    "Breathable mesh upper for lightweight comfort",
+    "Foam midsole for responsive cushioning",
+    "Flex grooves for a natural running stride",
+    "Durable rubber outsole with reliable grip"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Motiva",
+  "category": "Training",
+  "gender": "Women",
+  "price": 1700,
+  "mrp": 1700,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758199299/motiva_thumnail_fvrjor.avif",
+
+  "colors": {
+    "Purple": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758199297/motiva_purple_1_pvccwk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758199298/motiva_purple_2_uczipi.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 1.7,
+  "ratingCount": 41,
+
+  "description": "The Nike Motiva is designed to make every step comfortable, featuring a rocker-shaped sole for smoother motion and extra cushioning for walking. It helps reduce fatigue during daily activities and long strolls.",
+
+  "features": [
+    "Rocker-shaped sole for smooth heel-to-toe transition",
+    "Extra cushioning for lasting comfort on long walks",
+    "Breathable mesh upper for ventilation",
+    "Durable rubber outsole for everyday traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Jordan 40 PF Classic Shoes",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 9897,
+  "mrp": 17995,
+  "discountPercent": 45,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758263771/pf_thumnail_m5y0gn.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758263769/pf_blue_1_s9sh9d.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758263770/pf_blue_2_rxdqcy.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758263773/pf_white_1_kxspqk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758263775/pf_white_2_ytgbfo.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.8,
+  "ratingCount": 327,
+
+  "description": "The Air Jordan 40 PF combines heritage Jordan design with modern performance updates. Built for the court but styled for everyday wear, it features lightweight cushioning, durable traction, and a supportive fit to keep you moving with confidence.",
+
+  "features": [
+    "Zoom Air cushioning for responsive comfort",
+    "Durable rubber outsole for multidirectional traction",
+    "Premium upper materials for lasting support",
+    "Classic Jordan design details with modern upgrades"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan 12 Retro Shoes",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 7467,
+  "mrp": 16595,
+  "discountPercent": 55,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283149/retro_thumnail_jikk7o.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283145/retro_bliue_1_pjzh7y.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283147/retro_blue_2_cqyhyd.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283143/retro_blavk_1_m4eonj.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283142/retro_black_2_hg7zx7.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.9,
+  "ratingCount": 544,
+
+  "description": "A modern take on the ’96 classic that first brought Zoom Air to the Jordan line. Premium materials, sunrise-inspired stitch lines, and responsive cushioning deliver durable comfort and heritage style.",
+
+  "features": [
+    "Genuine leather and textile upper for durability",
+    "Full-length Zoom Air cushioning for responsiveness",
+    "Carbon-fibre shank for stability",
+    "Rubber outsole for traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan 1 Retro High OG 'UNC Reimagined' Shoes",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 6500,
+  "mrp": 6500,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283648/OG_thumnail_xhndla.avif",
+
+  "colors": {
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283645/og_orange_1_pdl8jg.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758283647/og_orange_2_mjdmz4.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.6,
+  "ratingCount": 120,
+
+  "description": "The Air Jordan 1 Retro High OG ‘UNC Reimagined’ revives a heritage silhouette with classic high-top lines and premium materials. A padded collar and encapsulated Air cushioning pair with a durable rubber outsole for everyday comfort and traction.",
+
+  "features": [
+    "Premium leather upper with OG paneling",
+    "Encapsulated Air unit in the heel for cushioning",
+    "Solid rubber cupsole with heritage traction pattern",
+    "Padded collar for support and comfort"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan 1 Low SE Shoes",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 4500,
+  "mrp": 4500,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758284136/low_thumnail_zwqkbv.avif",
+
+  "colors": {
+    "Grey": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758284133/low_grey_1_c6vou8.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758284134/low_grey_2_nk72ct.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.2,
+  "ratingCount": 64,
+
+  "description": "The Air Jordan 1 Low SE refreshes a timeless silhouette with premium materials and clean details. A padded collar and responsive cushioning deliver everyday comfort, while the heritage design keeps it classic.",
+
+  "features": [
+    "Premium leather and synthetic upper",
+    "Encapsulated Air cushioning for comfort",
+    "Rubber cupsole with heritage traction pattern",
+    "Padded collar for support"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Jordan MVP 92 Shoes",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 3450,
+  "mrp": 4059,
+  "discountPercent": 15,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285141/mvp_thumnail_xidzwx.avif",
+
+  "colors": {
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285135/mvp_blavk_1_cdu2m1.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285134/mvp_black_2_jfqm3q.avif"
+    ],
+    "Purple": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285137/mvp_purple_1_ldmzhi.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285139/mvp_purple_2_k3exr6.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.4,
+  "ratingCount": 58,
+
+  "description": "A heritage-inspired mashup with plush cushioning and everyday comfort. Leather and textile overlays sit atop a supportive midsole and a durable rubber outsole.",
+
+  "features": [
+    "Leather and textile upper for durability",
+    "Cushioned midsole for all-day comfort",
+    "Rubber outsole for traction and grip",
+    "Padded collar for a secure fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Jordan 4 'White Cement'",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 2300,
+  "mrp": 3067,
+  "discountPercent": 25,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285697/cement_thumnail_gbyect.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285595/cement_white_1_fyrx52.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285596/cement_white_2_bixjt6.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285599/ement_black_1_llq6p2.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758285601/ement_black_2_hznhvi.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.3,
+  "ratingCount": 226,
+
+  "description": "Step into a classic. This AJ4 brings full-grain leather and premium textiles with iconic mesh-inspired accents from the 1989 original. Cushioned Nike Air and a durable rubber outsole keep it comfy and grippy day to day.",
+
+  "features": [
+    "Nike Air cushioning for impact absorption",
+    "Full-grain leather and premium textile upper",
+    "Rubber outsole for everyday traction",
+    "Heritage AJ4 details and supportive fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Jordan Trunner LX Shoes",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 9000,
+  "mrp": 18000,
+  "discountPercent": 50,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758286546/trunner_thumnail_noq9yh.avif",
+
+  "colors": {
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758286544/trunner_black_1_wqeqgm.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758286553/trunnner_black_2_xezobr.avif"
+    ],
+    "Yellow": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758286548/trunner_yellow_-1_wbm4dk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758286551/trunner_yellow_2_gkhjjd.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.9,
+  "ratingCount": 96,
+
+  "description": "A versatile Jordan trainer that blends support and comfort for everyday wear. The Trunner LX pairs a supportive upper and secure midfoot fit with responsive cushioning and durable traction.",
+
+  "features": [
+    "Supportive upper with midfoot straps for lockdown",
+    "Cushioned midsole for responsive comfort",
+    "Rubber outsole for multi-surface traction",
+    "Padded collar for a secure, comfortable fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan Retro Starfish",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 8200,
+  "mrp": 8200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758287394/star_thumnail_fjpvxq.avif",
+
+  "colors": {
+    "Fossil": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758287391/star_fossil_-1_z14fw3.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758287392/star_fossil-_2_zi27so.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.2,
+  "ratingCount": 178,
+
+  "description": "The Air Jordan 3 Retro ‘Starfish’ refreshes the classic AJ3 with premium materials and heritage details. Visible Air cushioning and a supportive mid-cut design deliver everyday comfort, while the iconic elephant-print overlays keep the look unmistakably Jordan.",
+
+  "features": [
+    "Leather upper with signature elephant-print overlays",
+    "Visible Air unit in the heel for responsive cushioning",
+    "Rubber outsole with durable traction pattern",
+    "Padded collar and tongue for added comfort"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan  Mid ",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 6300,
+  "mrp": 10500,
+  "discountPercent": 40,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758287919/mid_thumnail_yn8rpe.avif",
+
+  "colors": {
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758287916/mid_red_-1_yarirg.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758287917/mid_red_-2_exl7wr.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.3,
+  "ratingCount": 112,
+
+  "description": "The Air Jordan 1 Mid keeps the legacy alive with a timeless profile, clean overlays and everyday cushioning. A padded collar, encapsulated Air unit and durable rubber outsole bring all-day comfort and classic Jordan style.",
+
+  "features": [
+    "Premium leather and synthetic overlays for durability",
+    "Encapsulated Air cushioning in the heel",
+    "Rubber cupsole with heritage traction pattern",
+    "Padded collar for a secure, comfortable fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan 1 Low SE ",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 4500,
+  "mrp": 5000,
+  "discountPercent": 10,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758289904/se_thumnail_obhgbf.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758289901/se_blue_1_nwa4ue.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758289902/se_blue_2_tyoqui.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 3.5,
+  "ratingCount": 80,
+
+  "description": "The Air Jordan 1 Low SE updates the classic AJ1 look with clean materials and everyday cushioning. A padded collar and encapsulated Air deliver comfort, while the timeless low-cut profile stays easy to style.",
+
+  "features": [
+    "Leather/synthetic upper with durable overlays",
+    "Encapsulated Air cushioning in the heel",
+    "Rubber cupsole with heritage traction pattern",
+    "Padded collar for added comfort"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Jordan 4 RM ",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 3750,
+  "mrp": 4412,
+  "discountPercent": 15,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291054/4_RM_THUMNAIL_ilq0ml.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291049/4_RM_PINK_-1_bxdrhw.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291051/4_rm_pink_-2_lnbrra.avif"
+    ],
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291046/4_rm_green_-1_mnkt71.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291045/4_rm_-_green_2_vxidnb.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.1,
+  "ratingCount": 42,
+
+  "description": "The Air Jordan 4 RM reimagines an icon with modern detailing and everyday comfort. A supportive upper, cushioned midsole, and durable rubber outsole keep you ready for all-day wear with unmistakable Jordan style.",
+
+  "features": [
+    "Leather and synthetic upper with supportive overlays",
+    "Cushioned midsole for everyday comfort",
+    "Rubber outsole for traction and durability",
+    "Padded collar for a secure fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Air Jordan 1 Low ",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 2200,
+  "mrp": 2200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291668/1_thumnail_tcw9ci.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291665/1_blue-1_gig18c.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291663/1_blue_-2_cc1hde.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291659/1_black_1_gkno9k.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758291660/1_black_2_gry0eg.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 1.8,
+  "ratingCount": 36,
+
+  "description": "The Air Jordan 1 Low keeps the timeless AJ1 lines in an easy-to-wear low-cut. A padded collar and encapsulated Air cushioning bring everyday comfort, while the durable rubber outsole provides reliable traction.",
+
+  "features": [
+    "Leather and synthetic upper with classic AJ1 paneling",
+    "Encapsulated Air unit in the heel for cushioning",
+    "Rubber cupsole with heritage traction pattern",
+    "Padded collar for a secure, comfortable fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Nike Vomero Plus",
+  "category": "Running",
+  "gender": "Men",
+  "price": 8600,
+  "mrp": 8600,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758297353/vomero_thumnail_qtwlyx.avif",
+
+  "colors": {
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758297350/vomero_orange_1_tmt3cr.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758297351/vomero_orange_2_qfkfj1.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758297356/vomero_white_1_p9uvct.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758297358/vomero_white_2_fmvm5i.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.6,
+  "ratingCount": 124,
+
+  "description": "Built for everyday road miles with a plush, high-stack ride, the Vomero Plus uses full-length ZoomX foam for max cushioning and energy return. A soft, breathable engineered mesh upper and durable rubber outsole keep runs comfortable and grippy from start to finish.",
+
+  "features": [
+    "Full-length ZoomX foam midsole for ultra-responsive cushioning",
+    "Engineered mesh upper for soft breathability",
+    "High-abrasion rubber outsole for durable traction",
+    "Approx. weight 292g (men’s size 9) and 10mm heel-to-toe drop",
+    "Webbed lace loops and reflective design details"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Pegasus LV8 ",
+  "category": "Running",
+  "gender": "Men",
+  "price": 7300,
+  "mrp": 16223,
+  "discountPercent": 55,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758298058/peg_thumnail_ooda8v.avif",
+
+  "colors": {
+    "Yellow": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758298060/peg_yellow_1_iw0wrq.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758298062/peg_yellow_2_ucup0j.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.3,
+  "ratingCount": 96,
+
+  "description": "The Pegasus LV8 is tuned for everyday road miles with a smooth ride and dependable comfort. A breathable upper, responsive cushioning and durable rubber outsole keep you steady from warm-up to cooldown.",
+  "features": [
+    "Responsive midsole foam for cushioned transitions",
+    "Engineered mesh upper for breathability",
+    "Durable rubber outsole for road traction",
+    "Padded collar and secure lacing for a locked-in fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Structure 26 ",
+  "category": "Running",
+  "gender": "Men",
+  "price": 5000,
+  "mrp": 7143,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758299017/structure_thumnail_weue5r.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758299019/structure_white_1_smkbv3.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758299022/structure_white_2_lw5l7f.avif"
+    ],
+    "Orange": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758299012/structure_orange_1_dmegyr.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758299014/structure_orange_2_mrwbto.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.5,
+  "ratingCount": 92,
+
+  "description": "Built for stability and everyday miles, the Structure 26 pairs supportive guidance with soft cushioning to help keep your stride smooth. A breathable upper, secure midfoot fit, and durable rubber outsole deliver comfort and confidence on the road.",
+
+  "features": [
+    "Stability platform for guided support",
+    "Plush foam midsole for cushioned comfort",
+    "Engineered mesh upper for breathability",
+    "Durable rubber outsole for road traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Vaporfly 4 Run",
+  "category": "Running",
+  "gender": "Men",
+  "price": 4600,
+  "mrp": 4600,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758302440/vap_thumnail_fo9qm6.avif",
+
+  "colors": {
+    "Mix": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758302436/vap_mix_-1_l8ysqj.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758302437/vap_mix_-2_up4frw.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.8,
+  "ratingCount": 72,
+
+  "description": "Built for race day speed, the Vaporfly 4 delivers a propulsive ride with ultra-responsive cushioning. A lightweight upper, high-rebound midsole and grippy outsole help you chase PRs on the road.",
+
+  "features": [
+    "Responsive foam midsole for high energy return",
+    "Propulsive plate setup for snappy toe-off",
+    "Lightweight, breathable upper for race-day comfort",
+    "Durable rubber in high-wear zones for road traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Alphafly 3 ",
+  "category": "Running",
+  "gender": "Men",
+  "price": 2550,
+  "mrp": 3188,
+  "discountPercent": 20,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758303796/alphafly_thumnail_pwf7tt.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758303790/alp_white_1_j2bmtl.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758303793/alp_white_2_qsd98r.avif"
+    ],
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758303786/alp_red_-1_vykafk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758303787/alp_red_-2_eyk4d9.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.7,
+  "ratingCount": 68,
+
+  "description": "Engineered for race-day efficiency, the Alphafly 3 uses a lightweight upper and a responsive midsole/plate system to deliver a propulsive feel at fast paces. Grippy rubber and a secure fit help you chase PRs on the road.",
+
+  "features": [
+    "High-rebound foam with a propulsive plate setup",
+    "Lightweight, breathable upper for race comfort",
+    "Durable rubber in high-wear zones for traction",
+    "Padded collar and secure lacing for lockdown"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Revolution 8 ",
+  "category": "Running",
+  "gender": "Men",
+  "price": 1440,
+  "mrp": 3200,
+  "discountPercent": 55,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758304470/rev_thumnail_iwiwsk.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758304473/rev_white_1_xgbjcz.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758304476/rev_white_2_nzramb.avif"
+    ],
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758304465/rev_green_1_peq9ng.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758304467/rev_green_2_ilif9e.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.6,
+  "ratingCount": 54,
+
+  "description": "Everyday road runner with a soft, supportive ride. Revolution 8 pairs a breathable upper and cushioned midsole with a durable rubber outsole for reliable traction on your daily miles.",
+
+  "features": [
+    "Breathable mesh upper for comfort",
+    "Soft foam midsole for cushioned strides",
+    "Rubber outsole for durable road traction",
+    "Padded collar and secure lace-up fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Run Swift",
+  "category": "Running",
+  "gender": "Women",
+  "price": 9300,
+  "mrp": 23250,
+  "discountPercent": 60,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305101/swift_thumnail_eo5n9m.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305105/swift_white_-1_gruxnk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305108/swift_white_2_bk8v6r.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305095/swift_black_1_ite9gj.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305097/swift_black_2_ikvgx9.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.1,
+  "ratingCount": 77,
+
+  "description": "An everyday road runner built for comfort and reliability. Run Swift pairs a breathable mesh upper with soft cushioning and a durable rubber outsole to keep your miles smooth and steady.",
+
+  "features": [
+    "Breathable mesh upper for airflow",
+    "Soft foam midsole for cushioned strides",
+    "Durable rubber outsole for road traction",
+    "Padded collar and secure lacing for lockdown"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Phantom Run",
+  "category": "Running",
+  "gender": "Women",
+  "price": 8000,
+  "mrp": 8000,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305673/phant_thumnail_gdokcs.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305673/phant_white_1_kv2cad.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305673/phnat_white_2_nwr1zm.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305673/phnat_black_1_izv42a.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758305673/phnat_black_2_mvxbhl.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.3,
+  "ratingCount": 84,
+
+  "description": "Slip into everyday comfort with the Phantom Run 2. A soft, breathable upper and cushioned midsole deliver a smooth ride for daily road miles, while durable rubber keeps you confident on varied surfaces.",
+
+  "features": [
+    "Breathable knit/synthetic upper for comfort",
+    "Plush foam midsole for responsive cushioning",
+    "Durable rubber outsole for road traction",
+    "Easy slip-on feel with secure lace-up fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Journey Run",
+  "category": "Running",
+  "gender": "Women",
+  "price": 6000,
+  "mrp": 9231,
+  "discountPercent": 35,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758307451/journey_thumnail_gimfma.avif",
+
+  "colors": {
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758307450/journey_green_1_zrsend.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758307450/journey_green_2_xxczpx.avif"
+    ],
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758307450/journey_pink_1_k8148d.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758307450/joruney_pink_2_z9dmov.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.7,
+  "ratingCount": 74,
+
+  "description": "Daily-mile road runner built for easy comfort. Journey Run pairs a breathable upper with soft cushioning and a durable rubber outsole to keep strides smooth on everyday routes.",
+
+  "features": [
+    "Breathable mesh upper for all-day airflow",
+    "Soft foam midsole for cushioned comfort",
+    "Rubber outsole with durable road traction",
+    "Padded collar and secure lace-up fit"
+  ],
+
+  "codAvailable": false
+},
+{
+  "name": "Zegama 2 Trail",
+  "category": "Running",
+  "gender": "Women",
+  "price": 3750,
+  "mrp": 3750,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758308803/zegnma_thumnail_jb2zra.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758308804/zegma_white_1_tymvxi.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758308803/zegma_white_2_dhzdwd.avif"
+    ],
+    "Mix": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758308803/zegma_mix_2_yguufk.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758308803/zegma_mix_hp5xow.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.1,
+  "ratingCount": 61,
+
+  "description": "Trail-focused runner built for long miles off-road. A breathable upper, cushioned midsole and grippy outsole deliver comfort and confidence across mixed terrain.",
+  "features": [
+    "Breathable mesh upper with supportive overlays",
+    "Cushioned midsole tuned for long-distance comfort",
+    "Durable rubber outsole with multi-directional lugs for traction",
+    "Reinforced toe and heel for trail protection"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Winflo 11 Run",
+  "category": "Running",
+  "gender": "Women",
+  "price": 2450,
+  "mrp": 4084,
+  "discountPercent": 40,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758309122/winflo_thumnail_a590kk.avif",
+
+  "colors": {
+    "Green": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758309122/winflow_green_1_apaol9.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758309122/winflow_green_2_azk8fh.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.2,
+  "ratingCount": 53,
+
+  "description": "Everyday road runner with breathable mesh and soft cushioning for comfortable daily miles. A durable rubber outsole helps deliver steady traction on pavement.",
+  "features": [
+    "Breathable mesh upper for airflow",
+    "Soft foam midsole for cushioned strides",
+    "Rubber outsole provides road traction",
+    "Padded collar and secure lace-up fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Interact Run",
+  "category": "Running",
+  "gender": "Women",
+  "price": 1700,
+  "mrp": 1700,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758309583/interact_thumnail_prrvrn.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758309583/interact_white_1_xwee1w.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758309584/interct_whiet_2_mmuxzw.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.6,
+  "ratingCount": 29,
+
+  "description": "Slip-on ease for daily miles. Interact Run EasyOn SE pairs a breathable mesh upper with soft foam cushioning and an easy-entry design to keep your routine quick and comfortable.",
+  "features": [
+    "EasyOn entry system for quick on/off",
+    "Breathable mesh upper for airflow",
+    "Soft foam midsole for cushioned comfort",
+    "Durable rubber outsole for road traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "BMW Drift Cat",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 3000,
+  "mrp": 3158,
+  "discountPercent": 5,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758358421/bmw_fcekqw.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758358421/bmw_1_vaolfd.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758358421/bmw_2_kt2jet.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.4,
+  "ratingCount": 33,
+
+  "description": "Clean everyday lifestyle sneaker featuring a simple upper and cushioned midsole for casual comfort. Easy to style with tees and denim for an effortless look.",
+  "features": [
+    "Soft foam midsole for lightweight cushioning",
+    "Durable rubber outsole for daily traction",
+    "Padded collar for a comfortable fit",
+    "Synthetic upper with supportive overlays"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Scuderia Ferrari Cat",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 4000,
+  "mrp": 4000,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359484/ferrari_thumnail_ndwcfu.avif",
+
+  "colors": {
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359483/ferrari_red_1_c7oam3.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359484/ferrari_red_2_s0mz3v.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.3,
+  "ratingCount": 28,
+
+  "description": "Low-profile driving sneaker inspired by Scuderia Ferrari. Sleek synthetic upper and a grippy, rounded-heel outsole support pedal feel and everyday comfort.",
+  "features": [
+    "Streamlined synthetic upper with Ferrari branding",
+    "Rounded driver’s heel for better pedal control",
+    "Cushioned midsole for everyday comfort",
+    "Rubber outsole for durable road traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Scuderia Ferrari",
+  "category": "Lifestyle",
+  "gender": "Men",
+  "price": 6500,
+  "mrp": 9286,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359961/ferrari_white_thumnqil_vvetky.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359961/ferrari_white_1_lffgji.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359961/feraari_white_2_vv2qqi.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359961/ferari_black_1_n1fpf6.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758359961/ferrari_black_2_qjb6p9.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.6,
+  "ratingCount": 52,
+
+  "description": "Clean, motorsport-inspired lifestyle sneaker featuring a sleek upper and cushioned midsole for everyday comfort. Easy to style with casual fits while showing subtle racing DNA.",
+
+  "features": [
+    "Supportive synthetic upper with smooth overlays",
+    "Comfortable foam midsole for daily cushioning",
+    "Durable rubber outsole for reliable traction",
+    "Padded collar and tongue for a secure fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "BMW M",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 5000,
+  "mrp": 5000,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758360317/bmw_mid_thumnail_nen0ux.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758360318/bmw_mid_white_1_uc1urt.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758360318/bmw_mid_white_2_pxoicg.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 2.6,
+  "ratingCount": 34,
+
+  "description": "Mid-cut driving-inspired lifestyle sneaker from BMW M Motorsport. A sleek synthetic upper pairs with a rounded driver’s heel and grippy outsole for everyday comfort and pedal-friendly feel.",
+  "features": [
+    "Synthetic upper with BMW M Motorsport detailing",
+    "Padded mid collar for supportive fit",
+    "Rounded driver’s heel for smooth pedal control",
+    "Rubber outsole for durable traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Court Shatter",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 3200,
+  "mrp": 3200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758377515/court_thumnail_dc0u8r.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758377515/court_white_1_stk1u1.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758377515/court_white_2_xgn0jo.avif"
+    ],
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758377515/court_bluee_-1_hk5o6f.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758377515/court_blue_2_ov09au.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 1.0,
+  "ratingCount": 24,
+
+  "description": "Clean court-inspired lifestyle sneaker for everyday wear. A cushioned midsole and durable rubber outsole provide comfort and traction, while simple colorways keep styling easy.",
+  "features": [
+    "Synthetic upper with supportive overlays",
+    "Soft foam midsole for daily cushioning",
+    "Rubber outsole for reliable grip",
+    "Padded collar and tongue for comfort"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "RS-X Soft",
+  "category": "Lifestyle",
+  "gender": "Women",
+  "price": 6500,
+  "mrp": 6500,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378204/RS_THUMNAIL_okq15j.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378204/rs_pink_1_kxnmxe.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378204/rs_pink_2_at5gdo.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378204/rs_white_1_klsie1.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378204/rs_white_2_vk1tfy.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 4.1,
+  "ratingCount": 68,
+
+  "description": "Chunky RS heritage vibes with a plush, everyday-comfort ride. RS-X SOFT pairs a smooth synthetic upper and layered details with a cushioned midsole for a bold lifestyle look.",
+  "features": [
+    "Layered synthetic upper with RS design language",
+    "Cushioned midsole for all-day comfort",
+    "Rubber outsole for everyday traction",
+    "Padded collar and tongue for a secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Galaxis Pro",
+  "category": "Running",
+  "gender": "Men",
+  "price": 3200,
+  "mrp": 8000,
+  "discountPercent": 60,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378989/gal_thumnail_xru57g.avif",
+
+  "colors": {
+    "Grey": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378989/gal_grey_1_nlfmwn.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378989/gal_grey_2_o2nfx8.avif"
+    ],
+    "Yellow": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378989/gal_yellow_1_rndt1n.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758378989/gal_yellow_2_srea2v.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.4,
+  "ratingCount": 53,
+
+  "description": "Lightweight performance runner built for daily miles. A responsive midsole pairs with supportive overlays and a grippy rubber outsole to keep you moving with confidence.",
+  "features": [
+    "Responsive foam midsole for cushioned transitions",
+    "Engineered mesh upper for breathability",
+    "Supportive overlays for a secure midfoot lock",
+    "Durable rubber outsole for road traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "FUEGO Profoam",
+  "category": "Running",
+  "gender": "Men",
+  "price": 4300,
+  "mrp": 4300,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758398909/fuego_thumnail_bbbk5s.avif",
+
+  "colors": {
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758398909/furgo_black_1_tkw129.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758398909/feuego_black-_2_lu7szx.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.8,
+  "ratingCount": 41,
+
+  "description": "Responsive daily runner with cushioned PROFOAM midsole and a breathable mesh upper. Designed for smooth transitions and reliable comfort on road miles.",
+  "features": [
+    "PROFOAM midsole for lightweight cushioning",
+    "Engineered mesh upper for airflow",
+    "Supportive overlays for a secure fit",
+    "Durable rubber outsole for road traction"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Velocity Nitro 4",
+  "category": "Running",
+  "gender": "Men",
+  "price": 7200,
+  "mrp": 7200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758399526/velocity_thumnail_iwap8g.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758399526/vel_white_1_wcge27.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758399526/vel_white_2_tqb5ch.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758399525/vel_black_1_jdewxf.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758399526/vel_black_2_ypmigx.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.4,
+  "ratingCount": 92,
+
+  "description": "High-cushion daily trainer engineered for smooth miles. A responsive foam midsole, breathable mesh upper and durable rubber outsole combine for comfort and grip on the road.",
+  "features": [
+    "High-cushion foam midsole for soft landings",
+    "Breathable engineered mesh upper",
+    "Supportive overlays for midfoot lockdown",
+    "Durable rubber outsole for road traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Galaxis Pro X",
+  "category": "Running",
+  "gender": "Women",
+  "price": 7500,
+  "mrp": 10000,
+  "discountPercent": 25,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400580/g_thumnail_bk1zow.avif",
+
+  "colors": {
+    "Brown": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400580/g_brown_1_rxdjzy.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400580/g_brown_2_myislg.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400580/g_white_-1_qkkgwy.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400580/g-white_2_mbayj3.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 2.4,
+  "ratingCount": 47,
+
+  "description": "Lightweight women’s performance runner with a responsive, cushioned ride. Breathable mesh, supportive overlays, and a durable rubber outsole keep your daily miles steady and comfortable.",
+  "features": [
+    "Responsive foam midsole for cushioned transitions",
+    "Engineered mesh upper for airflow",
+    "Supportive heel clip for stability",
+    "Durable rubber outsole for road traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Softride Sophia",
+  "category": "Running",
+  "gender": "Women",
+  "price": 5500,
+  "mrp": 5500,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400900/soft_thumnail_jaaoap.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400900/soft_pink_-2_ng756q.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758400900/soft_pink_-1_tuan5r.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 1.4,
+  "ratingCount": 38,
+
+  "description": "Easy-on women’s slip-on with plush Softride cushioning for everyday comfort. A breathable mesh upper, padded collar and flexible outsole make it a cozy go-to for errands, walks and light activity.",
+  "features": [
+    "Softride midsole for soft, cushioned steps",
+    "Breathable mesh upper with slip-on design",
+    "Padded collar for a secure, comfortable fit",
+    "Rubber zones on outsole for everyday traction"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "PWR NITRO SQD 2",
+  "category": "Training",
+  "gender": "Men",
+  "price": 3500,
+  "mrp": 7000,
+  "discountPercent": 50,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444288/nitro_thumnail_dustit.avif",
+
+  "colors": {
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444288/nitrr_red_1_xdmqtw.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444288/nitro_red_2_vsx8cv.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444287/nitro_black_1_ktyo6u.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444288/nitro_black_2_yxmprg.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.9,
+  "ratingCount": 57,
+
+  "description": "Men’s training shoe built for high-intensity sessions. A cushioned NITRO foam midsole, supportive upper, and grippy outsole deliver comfort, stability, and traction through jumps, lifts, and agility drills.",
+  "features": [
+    "NITRO foam midsole for responsive cushioning",
+    "Supportive upper with secure midfoot lockdown",
+    "Durable rubber outsole for multi-direction traction",
+    "Padded collar and tongue for added comfort"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "Extrinsic B",
+  "category": "Training",
+  "gender": "Men",
+  "price": 5200,
+  "mrp": 5200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444967/extrinsic_thumnail_si9mhk.avif",
+
+  "colors": {
+    "Grey": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444966/extrinsic_grey_1_wqpwrj.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758444966/ext_grey_2_cjtvcl.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.4,
+  "ratingCount": 28,
+
+  "description": "Lightweight men’s runner with a supportive upper and everyday cushioning. Built to handle gym sessions and short road runs with reliable grip and comfort.",
+  "features": [
+    "Cushioned foam midsole for comfort",
+    "Breathable mesh upper with supportive overlays",
+    "Durable rubber outsole for traction",
+    "Padded collar and tongue for secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "PWR HYBRID Multi-Surface Grip",
+  "category": "Training",
+  "gender": "Men",
+  "price": 6200,
+  "mrp": 6200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758445930/hybrid_thumnail_nimv0l.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758445930/hybrid_white_1_orn4ju.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758445931/hybrid_white_2_p29snq.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758445930/hybrid_black_1_gwnmza.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758445930/hybdrid_blck_2_elpicj.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 3.9,
+  "ratingCount": 41,
+
+  "description": "Versatile hybrid trainer tuned for road-to-gym use. A cushioned midsole, supportive upper and multi-surface grip outsole keep you steady and comfortable through runs, circuits and agility work.",
+  "features": [
+    "Hybrid foam cushioning for responsive comfort",
+    "Supportive mesh upper with durable overlays",
+    "Multi-surface rubber outsole for dependable traction",
+    "Padded collar and tongue for a secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Surgestride",
+  "category": "Training",
+  "gender": "Women",
+  "price": 3600,
+  "mrp": 4500,
+  "discountPercent": 20,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758446497/surge_thumnail_wkajvr.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758446497/surge_pink_1_pnfv7c.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758446496/surge_pin_k_2_l1rwli.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 2.2,
+  "ratingCount": 34,
+
+  "description": "Lightweight women’s runner with soft cushioning and a breathable upper for everyday miles and gym sessions. The multi-surface outsole provides steady traction for runs and cross-training.",
+  "features": [
+    "Cushioned midsole for everyday comfort",
+    "Breathable mesh upper with supportive overlays",
+    "Multi-surface rubber outsole for traction",
+    "Padded collar and tongue for a secure fit"
+  ],
+
+  "codAvailable": true
+},
+
+{
+  "name": "PWR XX NITRO Luxe",
+  "category": "Training",
+  "gender": "Women",
+  "price": 7200,
+  "mrp": 7200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758446928/PWR_thumnail_chqx0n.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758446927/pwr_pink_1_xult8n.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758446928/pwr_pink_2_afhxp2.avif"
+    ]
+  },
+
+  "sizes": [5, 6, 7, 8, 9, 10, 11],
+
+  "rating": 1.8,
+  "ratingCount": 29,
+
+  "description": "Women’s training shoe engineered with plush NITRO-inspired cushioning and a supportive fit for gym sessions and daily workouts. A breathable upper and grippy outsole help keep you steady through lifts, agility drills, and short runs.",
+  "features": [
+    "Soft, responsive midsole cushioning",
+    "Breathable mesh upper with supportive overlays",
+    "Durable rubber outsole for multi-surface traction",
+    "Padded collar and tongue for secure comfort"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Jordan Max Trainer",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 5500,
+  "mrp": 10000,
+  "discountPercent": 45,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758447844/jordan_max_thumnail_mopkiy.avif",
+
+  "colors": {
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758447846/max_white_1_ymrvem.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758447847/max_white_2_ucmi0m.avif"
+    ],
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758447845/max_black_1_hc8lkt.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758447845/max_black_2_o6osmh.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 2.8,
+  "ratingCount": 48,
+
+  "description": "A versatile Jordan trainer with everyday cushioning and durable traction. Lightweight materials and supportive overlays keep you locked in for gym work or casual wear.",
+  "features": [
+    "Cushioned midsole for comfort",
+    "Supportive upper with durable overlays",
+    "Rubber outsole for multi-surface traction",
+    "Padded collar and tongue for a secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Jordan SPI",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 5200,
+  "mrp": 5200,
+  "discountPercent": 0,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758448908/spi_thumnail_tarda9.avif",
+
+  "colors": {
+    "Black": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758448908/spi_black_1_gmjaa6.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758448907/spi_balck_2_kbltxg.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758448908/spi_white_1_pwlp5g.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758448909/spi_white_2_tgpryi.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 1.7,
+  "ratingCount": 33,
+
+  "description": "A clean Jordan look with everyday comfort. Lightweight materials, soft cushioning and a durable rubber outsole make this a versatile pick for casual wear.",
+  "features": [
+    "Synthetic/leather upper with supportive overlays",
+    "Foam midsole for lightweight cushioning",
+    "Rubber outsole for everyday traction",
+    "Padded collar for a secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Jordan Access",
+  "category": "Jordan",
+  "gender": "Men",
+  "price": 6437,
+  "mrp": 9195,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758449497/acc_thumnail_mxplkw.avif",
+
+  "colors": {
+    "Red": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758449496/acc_black_1_j1bt2s.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758449496/acc_black_2_aoln6y.avif"
+    ]
+  },
+
+  "sizes": [6, 7, 8, 9, 10, 11, 12],
+
+  "rating": 4.4,
+  "ratingCount": 268,
+
+  "description": "Lightweight, breathable leather upper with perforations, plus Nike Air cushioning and embroidered Jumpman details for everyday comfort and classic Jordan style.",
+
+  "features": [
+    "Leather upper with breathable perforations",
+    "Nike Air cushioning for responsive comfort",
+    "Durable rubber outsole for traction",
+    "Embroidered Jordan branding",
+    "Padded collar for a secure fit"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Air Jordan High G",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 13596,
+  "mrp": 16995,
+  "discountPercent": 20,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758516953/high_thumnail_obifbj.avif",
+
+  "colors": {
+    "Gold": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758516940/high_gold_1_mpq1xr.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758516952/high_gold_2_z5rcdc.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+
+  "rating": 2.2,
+  "ratingCount": 56,
+
+  "description": "High-top AJ1 look tuned for golf: genuine leather upper, encapsulated Air cushioning and an integrated spikeless traction pattern. Waterproof build with classic Black/White/Metallic Gold details (Style DQ0660-002).",
+
+  "features": [
+    "Genuine leather upper with bold AJ1 blocking",
+    "Encapsulated Nike Air heel cushioning",
+    "Integrated spikeless traction pattern for course grip",
+    "1-year waterproof warranty",
+    "Comes with 2 sets of laces",
+    "Style: DQ0660-002 (Black/White/Metallic Gold)"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Jordan Heir'",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 6787,
+  "mrp": 9695,
+  "discountPercent": 30,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758517363/heir_thumnail_htljac.avif",
+
+  "colors": {
+    "Pink": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758517362/heir_pink_1_iebxqd.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758517465/pink_2_rmu1zz.avif"
+    ],
+    "White": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758517363/heir_qhite_1_mong8g.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758517364/heir_white_2_yy9ykf.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+
+  "rating": 1.5,
+  "ratingCount": 67,
+
+  "description": "Stand-out AJ performance look with modern tech: a drop-in Cushlon 3.0 midsole sits low to the ground for mobility, while an external cage contours to your foot for support. PF build is tuned for a wider fit and outdoor courts.",
+
+  "features": [
+    "Drop-in Cushlon 3.0 midsole for responsive cushioning",
+    "External contouring cage for supportive lockdown",
+    "Rubber outsole with herringbone traction",
+    "Lightweight textile upper for breathability",
+    "Synthetic leather overlays for durability",
+    "PF edition: wider fit, optimised for outdoor play",
+    "Pull tab on heel",
+    "Style: FZ2473-601"
+  ],
+
+  "codAvailable": false
+},
+
+{
+  "name": "Jordan NU Retro",
+  "category": "Jordan",
+  "gender": "Women",
+  "price": 13297,
+  "mrp": 13995,
+  "discountPercent": 5,
+
+  "thumbnail": "https://res.cloudinary.com/di71zb4sb/image/upload/v1758522575/nu_thumnail_q5pm6c.avif",
+
+  "colors": {
+    "Blue": [
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758522575/nu_blue_1_ohcpie.avif",
+      "https://res.cloudinary.com/di71zb4sb/image/upload/v1758522575/nu_blue_2_su0k5j.avif"
+    ]
+  },
+
+  "sizes": [4, 5, 6, 7, 8, 9, 10],
+
+  "rating": 3.9,
+  "ratingCount": 225,
+
+  "description": "Iconic Jordan look built for the course. A rubber heel and durable plastic forefoot plate add stability and cushioning, while seven removable spikes deliver confident traction. Shown here in a White/University Blue-inspired look (Style FZ4153-101).",
+
+  "features": [
+    "Course-tuned build with seven removable spikes",
+    "Rubber heel + durable plastic forefoot plate for stability",
+    "Classic AJ Wings detailing and throwback design",
+    "Golf-specific traction pattern for swings and walking",
+    "Style: FZ4153-101"
+  ],
+
+  "codAvailable": false
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
