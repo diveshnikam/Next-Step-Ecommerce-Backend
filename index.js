@@ -512,7 +512,7 @@ app.post("/products/cart", async (req, res) => {
 
 // Get all cart items
 const getAllCartItems = async () => {
-  return await Cart.find().populate("productId", "name price thumbnail");
+  return await Cart.find().populate("productId", "name price category gender discountPercent mrp thumbnail");
 };
 
 app.get("/products/cart", async (req, res) => {
@@ -623,7 +623,7 @@ app.post("/products/wishlist", async (req, res) => {
 //get all products from wishlist
 
 const getAllWishlistItems = async () => {
-  return await Wishlist.find().populate("productId", "name price thumbnail");
+  return await Wishlist.find().populate("productId", "name price category gender discountPercent mrp thumbnail");
 };
 
 app.get("/products/wishlist", async (req, res) => {
